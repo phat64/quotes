@@ -2,4 +2,4 @@
 
 ![health is not just eating](heath_is_not_just_eating.jpg)
 
-![when the student is ready...](when_the_student_is_ready_the_teacher_appears.jpg)
+![when the student is ready the teacher appears](when_the_student_is_ready_the_teacher_appears.jpg)
